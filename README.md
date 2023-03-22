@@ -1,2 +1,7 @@
-# curso-de-JavaScript-e-TypeScript-do-basico-ao-avancado
-Conteúdo feito durante o curso Curso de JavaScript e TypeScript do básico ao avançado, do intrutor Luiz Otávio Miranda.
+# Curso de JavaScript e TypeScript do básico ao avançado
+
+Conteúdo feito durante o [Curso de JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
+) , do intrutor Luiz Otávio Miranda.
+
+Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
+).
