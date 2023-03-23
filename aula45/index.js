@@ -1,0 +1,25 @@
+function retornarHora(data) {
+    if (data && !(data instanceof Date)) throw new TypeError('Esperando instância de Date.');
+
+    if (!data) data = new Date();
+
+    return data.toLocaleTimeString('pt-br', {
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false
+    });
+}
+
+
+try {
+    const data = new Date('01-01-1970 12:58:05');
+    console.log(retornarHora(data));
+
+} catch (err) {
+    console.log(err);
+} finally {
+    console.log('Finalizado');
+}
+
+
