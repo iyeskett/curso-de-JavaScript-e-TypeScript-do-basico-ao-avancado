@@ -80,3 +80,6 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 67](aula67/) - Reduce - Reduzindo o array  
 [Aula 68](aula68/) - Filter + Map + Reduce  
 [Aula 69](aula69/) - forEach  
+
+## JavaScript Objetos e prototypes (Avançado)  
+[Aula 70](aula70/) - Revisando Objetos  
