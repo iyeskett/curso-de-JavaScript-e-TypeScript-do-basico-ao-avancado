@@ -83,3 +83,4 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 
 ## JavaScript Objetos e prototypes (Avançado)  
 [Aula 70](aula70/) - Revisando Objetos  
+[Aula 71](aula71/) - Object.defineProperty() e Object.defineProperties()  
