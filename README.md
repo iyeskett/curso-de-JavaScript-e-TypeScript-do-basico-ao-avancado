@@ -86,3 +86,4 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 71](aula71/) - Object.defineProperty() e Object.defineProperties()  
 [Aula 72](aula72/) - Getters e Setters  
 [Aula 73](aula73/) - Métodos úteis para objetos  
+[Aula 74](aula74/) - Prototypes  
