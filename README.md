@@ -89,3 +89,4 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 74](aula74/) - Prototypes  
 [Aula 75](aula75/) - Manipulando Prototypes  
 [Aula 76](aula76/) - Herança  
+[Aula 77](aula77/) - Exercício - Validando um CPF (Algoritmo)  
