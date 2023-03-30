@@ -101,3 +101,6 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 83](aula83/) - Métodos de instância e estáticos  
 [Aula 84](aula84/) - Usando classes (Validando CPF)  
 [Aula 85](aula85/) - Validando um formulário (usando classe)  
+
+## Seção 8: JavaScript assíncrono - Promises, Ajax, Fetch e Async/Await  
+[Aula 86](aula86/) - Promises  
