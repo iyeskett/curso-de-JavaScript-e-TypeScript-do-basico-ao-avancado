@@ -96,3 +96,4 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 
 ## Seção 7: JavaScript Classes - Programação Orientada a Objetos - POO  
 [Aula 80](aula80/) - Criando classes  
+[Aula 81](aula81/) - Getters e Setters  
