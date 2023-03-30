@@ -98,3 +98,4 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 80](aula80/) - Criando classes  
 [Aula 81](aula81/) - Getters e Setters  
 [Aula 82](aula82/) - Herança com classes  
+[Aula 83](aula83/) - Métodos de instância e estáticos  
