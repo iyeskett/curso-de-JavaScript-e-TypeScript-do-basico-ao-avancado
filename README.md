@@ -106,3 +106,4 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 86](aula86/) - Promises  
 [Aula 87](aula87/) - Métodos úteis para Promises  
 [Aula 88](aula88/) - Async / Await  
+[Aula 89](aula89/) - XMLHttpRequest (GET) + Promises  
