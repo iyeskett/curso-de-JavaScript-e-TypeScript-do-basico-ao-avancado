@@ -108,3 +108,4 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 88](aula88/) - Async / Await  
 [Aula 89](aula89/) - XMLHttpRequest (GET) + Promises  
 [Aula 90](aula90/) - Fetch API (GET)  
+[Aula 91](aula91/) - Fetch API e Axios (JSON)  
