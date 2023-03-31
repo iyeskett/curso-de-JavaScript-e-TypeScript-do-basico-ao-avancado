@@ -105,3 +105,4 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 ## Seção 8: JavaScript assíncrono - Promises, Ajax, Fetch e Async/Await  
 [Aula 86](aula86/) - Promises  
 [Aula 87](aula87/) - Métodos úteis para Promises  
+[Aula 88](aula88/) - Async / Await  
