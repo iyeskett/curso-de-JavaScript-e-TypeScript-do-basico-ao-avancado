@@ -113,3 +113,4 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 ## Seção 9: Javascript Tooling e ES6 Modules - Módulos  
 [Aula 92](aula92/) - Babel e "can i use..."  
 [Aula 93](aula93/) - Webpack (Boilerplate)  
+[Aula 94](aula94/) - ES6 Modules - Import/Export  
