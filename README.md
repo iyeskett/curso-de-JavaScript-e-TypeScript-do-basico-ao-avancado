@@ -121,3 +121,4 @@ Aqui salvo todas as atividades e projetos feitos durante o [Curso](https://www.u
 ## Seção 10: JavaScript - Node, Npm, Express e MongoDB (NodeJS)  
 ### Criado nova pasta para a seção de node - [Node](node/)  
 [Aula 01](aula01/) - Módulos (1)  
+[Aula 02](aula02/) - Módulos (2)  
