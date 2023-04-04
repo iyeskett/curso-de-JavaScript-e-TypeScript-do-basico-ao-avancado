@@ -115,3 +115,4 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 93](aula93/) - Webpack (Boilerplate)  
 [Aula 94](aula94/) - ES6 Modules - Import/Export  
 [Aula 95](aula95/) - Criando um gerador de CPFs válidos  
+[Aula 96](aula96/) - Criando um gerador de senhas  
