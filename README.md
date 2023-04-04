@@ -6,7 +6,7 @@ Conteúdo feito durante o [Curso de JavaScript e TypeScript do básico ao avanç
 Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
 ).
 
-## JavaScript Básico - Para iniciantes  
+## Seção 2: JavaScript Básico - Para iniciantes  
 [Aula 03](aula03/) - Console.log - A primeira coisa que você vai ver em JS  
 [Aula 04](aula04/) - Comentários de código  
 [Aula 05](aula05/) - Navegador vs Node (HTML + JavaScript)  
@@ -26,7 +26,7 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 19](aula19/) - Valores primitivos e valores por referência  
 [Aula 20](aula20/) - Exercício para função, array e objetos  
 
-## JavaScript - Lógica de programação  
+## Seção 3: JavaScript - Lógica de programação  
 [Aula 21](aula21/) - Operadores de comparação  
 [Aula 22](aula22/) - Operadores Lógicos  
 [Aula 23](aula23/) - Avaliação de Curto-Circuito (Short-Circuit)  
@@ -56,7 +56,7 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 47](aula47/) - Exercício - Criando um timer com setInterval  
 [Aula 48](aula48/) - Criando uma Lista de tarefas  
 
-## JavaScript Funções (Avançado)  
+## Seção 4: JavaScript Funções (Avançado)  
 [Aula 49](aula49/) - As várias maneiras de declarar funções em JavaScript  
 [Aula 50](aula50/) - Parâmetros da função  
 [Aula 51](aula51/) - Retorno da função  
@@ -71,7 +71,7 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 60](aula60/) - Funções recursivas  
 [Aula 61](aula61/) - Funções geradoras  
 
-## JavaScript Arrays (Avançado)  
+## Seção 5: JavaScript Arrays (Avançado)  
 [Aula 62](aula62/) - Revisão do básico em Array  
 [Aula 63](aula63/) - Método Splice  
 [Aula 64](aula64/) - Concatenando arrays  
@@ -81,7 +81,7 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 68](aula68/) - Filter + Map + Reduce  
 [Aula 69](aula69/) - forEach  
 
-## JavaScript Objetos e prototypes (Avançado)  
+## Seção 6: JavaScript Objetos e prototypes (Avançado)  
 [Aula 70](aula70/) - Revisando Objetos  
 [Aula 71](aula71/) - Object.defineProperty() e Object.defineProperties()  
 [Aula 72](aula72/) - Getters e Setters  
@@ -117,3 +117,6 @@ Aqui salvo todo as atividades e projetos feitos durante o [Curso](https://www.ud
 [Aula 95](aula95/) - Criando um gerador de CPFs válidos  
 [Aula 96](aula96/) - Criando um gerador de senhas  
 [Aula 97](aula97/) - Core-js e regenerator-runtime  
+
+## Seção 10: JavaScript - Node, Npm, Express e MongoDB (NodeJS)  
+### Criado nova pasta para a seção de node - [Node](node/)  
