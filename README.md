@@ -123,3 +123,4 @@ Aqui salvo todas as atividades e projetos feitos durante o [Curso](https://www.u
 [Aula 01](aula01/) - Módulos (1)  
 [Aula 02](aula02/) - Módulos (2)  
 [Aula 03](aula03/) - NPM - Node Package Manager  
+[Aula 04](aula04/) - Listando arquivos com FS e Recursão mútua  
