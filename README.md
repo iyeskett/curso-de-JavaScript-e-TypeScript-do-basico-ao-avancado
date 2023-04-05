@@ -122,3 +122,4 @@ Aqui salvo todas as atividades e projetos feitos durante o [Curso](https://www.u
 ### Criado nova pasta para a seção de node - [Node](node/)  
 [Aula 01](aula01/) - Módulos (1)  
 [Aula 02](aula02/) - Módulos (2)  
+[Aula 03](aula03/) - NPM - Node Package Manager  
