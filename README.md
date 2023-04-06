@@ -128,3 +128,5 @@ Aqui salvo todas as atividades e projetos feitos durante o [Curso](https://www.u
 [Aula 06](aula06/) - Express - Introdução  
 [Aula 07](aula07/) - Express + Nodemon  
 [Aula 08](aula08/) - Express - req.params, req.query e req.body  
+[Aula 08](aula08/) - Express - req.params, req.query e req.body  
+[Aula 09](aula09/) - Express Router e Controllers  
