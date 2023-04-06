@@ -126,3 +126,4 @@ Aqui salvo todas as atividades e projetos feitos durante o [Curso](https://www.u
 [Aula 04](aula04/) - Listando arquivos com FS e Recursão mútua  
 [Aula 05](aula05/) - Escrevendo e lendo arquivos  
 [Aula 06](aula06/) - Express - Introdução  
+[Aula 07](aula07/) - Express + Nodemon  
