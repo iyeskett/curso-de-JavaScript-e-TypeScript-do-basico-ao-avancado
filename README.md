@@ -130,3 +130,4 @@ Aqui salvo todas as atividades e projetos feitos durante o [Curso](https://www.u
 [Aula 08](aula08/) - Express - req.params, req.query e req.body  
 [Aula 08](aula08/) - Express - req.params, req.query e req.body  
 [Aula 09](aula09/) - Express Router e Controllers  
+[Aula 10](aula10/) - Express Views  
