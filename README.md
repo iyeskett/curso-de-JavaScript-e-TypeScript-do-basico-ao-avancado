@@ -120,21 +120,24 @@ Aqui salvo todas as atividades e projetos feitos durante o [Curso](https://www.u
 
 ## Seção 10: JavaScript - Node, Npm, Express e MongoDB (NodeJS)  
 ### Criado nova pasta para a seção de node - [Node](node/)  
-[Aula 01](aula01/) - Módulos (1)  
-[Aula 02](aula02/) - Módulos (2)  
-[Aula 03](aula03/) - NPM - Node Package Manager  
-[Aula 04](aula04/) - Listando arquivos com FS e Recursão mútua  
-[Aula 05](aula05/) - Escrevendo e lendo arquivos  
-[Aula 06](aula06/) - Express - Introdução  
-[Aula 07](aula07/) - Express + Nodemon  
-[Aula 08](aula08/) - Express - req.params, req.query e req.body  
-[Aula 08](aula08/) - Express - req.params, req.query e req.body  
-[Aula 09](aula09/) - Express Router e Controllers  
-[Aula 10](aula10/) - Express Views  
-[Aula 11](aula11/) - Express - Arquivos estáticos  
-[Aula 12](aula12/) - Express + Webpack  
-[Aula 13](aula13/) - Express Middlewares  
-[Aula 14](aula14/) - MongoDB - Conexão e primeiro Model  
-[Aula 15](aula15/) - Express Session e Flash Messages  
-[Aula 16](aula16/) - Injetando conteúdo nos views  
-[Aula 17](aula17/) - Helmet e CSRF  
+[Aula 01](node/aula01/) - Módulos (1)  
+[Aula 02](node/aula02/) - Módulos (2)  
+[Aula 03](node/aula03/) - NPM - Node Package Manager  
+[Aula 04](node/aula04/) - Listando arquivos com FS e Recursão mútua  
+[Aula 05](node/aula05/) - Escrevendo e lendo arquivos  
+[Aula 06](node/aula06/) - Express - Introdução  
+[Aula 07](node/aula07/) - Express + Nodemon  
+[Aula 08](node/aula08/) - Express - req.params, req.query e req.body  
+[Aula 08](node/aula08/) - Express - req.params, req.query e req.body  
+[Aula 09](node/aula09/) - Express Router e Controllers  
+[Aula 10](node/aula10/) - Express Views  
+[Aula 11](node/aula11/) - Express - Arquivos estáticos  
+[Aula 12](node/aula12/) - Express + Webpack  
+[Aula 13](node/aula13/) - Express Middlewares  
+[Aula 14](node/aula14/) - MongoDB - Conexão e primeiro Model  
+[Aula 15](node/aula15/) - Express Session e Flash Messages  
+[Aula 16](node/aula16/) - Injetando conteúdo nos views  
+[Aula 17](node/aula17/) - Helmet e CSRF  
+
+## Seção 11: JavaScript + Node - Projeto Agenda (com Express + MongoDB)  
+### Projeto na pasta - [Projeto Agenda](projetoagenda/)  
