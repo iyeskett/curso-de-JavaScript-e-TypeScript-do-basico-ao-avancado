@@ -18,8 +18,8 @@ function Contato(body) {
     this.contato = null;
 }
 
-Contato.buscarPorId = async function(id){
-    if(typeof id !== 'string') return;
+Contato.buscarPorId = async function (id) {
+    if (typeof id !== 'string') return;
 
     const user = await ContatoModel.findById(id);
     return user;
@@ -57,6 +57,13 @@ Contato.prototype.cleanUp = function () {
         email: this.body.email,
     }
 
+};
+
+Contato.prototype.edit = async function (id) {
+    if (typeof id !== 'string') return;
+    this.validar();
+    if (this.errors.length > 0) return;
+    this.contato = await ContatoModel.findByIdAndUpdate(id, this.body, { new: true });
 };
 
 module.exports = Contato;
