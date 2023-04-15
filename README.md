@@ -141,3 +141,6 @@ Aqui salvo todas as atividades e projetos feitos durante o [Curso](https://www.u
 
 ## Seção 11: JavaScript + Node - Projeto Agenda (com Express + MongoDB)  
 ### Projeto na pasta - [Projeto Agenda](projetoagenda/)  
+
+## Seção 12: Linux - Deploy da aplicação e segurança + Chaves SSH 
+### Projeto feito e hospedado no Google Cloud  
