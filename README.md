@@ -144,3 +144,6 @@ Aqui salvo todas as atividades e projetos feitos durante o [Curso](https://www.u
 
 ## Seção 12: Linux - Deploy da aplicação e segurança + Chaves SSH 
 ### Projeto feito e hospedado no Google Cloud  
+
+## Seção 13: API REST - JavaScript, Node, Express e SQL (MySQL ou MariaDB)
+### Criado nova pasta para a seção de API REST - [API REST](api_rest/)  
