@@ -106,3 +106,4 @@ dist
 # pastas e arquivos que não devem subir
 modelo*/
 *.zip
+upload*/
