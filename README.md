@@ -147,3 +147,6 @@ Aqui salvo todas as atividades e projetos feitos durante o [Curso](https://www.u
 
 ## Seção 13: API REST - JavaScript, Node, Express e SQL (MySQL ou MariaDB)
 ### Criado nova pasta para a seção de API REST - [API REST](api_rest/)  
+
+## Seção 14: React com componentes de classe (Básico) - JavaScript  
+### Criado nova pasta para a seção de React - [REACT](react/)  
