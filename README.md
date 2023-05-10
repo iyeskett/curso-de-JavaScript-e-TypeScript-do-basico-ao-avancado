@@ -149,4 +149,8 @@ Aqui salvo todas as atividades e projetos feitos durante o [Curso](https://www.u
 ### Criado nova pasta para a seção de API REST - [API REST](api_rest/)  
 
 ## Seção 14: React com componentes de classe (Básico) - JavaScript  
-### Criado nova pasta para a seção de React - [REACT](react/)  
+### Criado nova pasta para a seção de React - [REACT](react/listatarefas/)  
+
+## Seção 15: React - Redux - Redux Saga - React Hooks e componentes funcionais - Avançado  
+### Criado nova pasta para a seção - [REACT](react/react-base)  
+
