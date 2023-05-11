@@ -14,7 +14,7 @@ export default function Login() {
         <small>Olá</small>
       </Title>
       <Paragrafo>Lorem ipsum dolor sit amet</Paragrafo>
-      <a href="">Olá</a>
+      <button type="button">Enviar</button>
     </Container>
   );
 }
