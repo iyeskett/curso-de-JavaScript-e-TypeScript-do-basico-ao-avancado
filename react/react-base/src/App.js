@@ -4,10 +4,13 @@ import React from 'react';
 import Login from './pages/Login';
 // eslint-disable-next-line no-unused-vars
 import GlobalStyles from './styles/GlobalStyles';
+// eslint-disable-next-line no-unused-vars
+import Header from './components/Header';
 
 function App() {
   return (
     <>
+      <Header />
       <GlobalStyles />
       <Login />
     </>
